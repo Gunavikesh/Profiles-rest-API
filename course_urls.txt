@@ -1,0 +1,5 @@
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+https://github.com/LondonAppDev/build-a-backend-api-python-drf-beginner-cheat-sheet/blob/master/README.md
+https://gist.github.com/LondonAppDev/dd166e24f69db4404102161df02a63ff
+https://choosealicense.com/licenses/mit/
+https://gist.github.com/LondonAppDev/199eef145a21587ea866b69d40d28682
