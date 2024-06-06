@@ -3,3 +3,11 @@ https://github.com/LondonAppDev/build-a-backend-api-python-drf-beginner-cheat-sh
 https://gist.github.com/LondonAppDev/dd166e24f69db4404102161df02a63ff
 https://choosealicense.com/licenses/mit/
 https://gist.github.com/LondonAppDev/199eef145a21587ea866b69d40d28682
+
+Django
+models
+https://docs.djangoproject.com/en/1.11/topics/db/models/
+model fields
+https://docs.djangoproject.com/en/1.11/ref/models/fields/
+PEP_8 guidelines
+https://peps.python.org/pep-0008/
